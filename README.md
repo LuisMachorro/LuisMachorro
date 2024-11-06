@@ -7,7 +7,6 @@ Computer Engineering Student
 I am preparing for the working world, so I continue to learn and share my knowledge.
 
 * 🌍  I'm based in Mexico City
-* ✉️  You can contact me at [al2192002058@azc.uam.mx](mailto:al2192002058@azc.uam.mx)
 * 🧠  I'm learning NodeJs
 
 ### Skills
